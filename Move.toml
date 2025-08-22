@@ -1,0 +1,15 @@
+[package]
+name = "Patient-Data-Management"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x3c4466a07979403aa15d8856984acb6b24e680d7a55849bfa3dc4c3c9e7673da"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
