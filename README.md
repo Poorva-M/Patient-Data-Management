@@ -1,5 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0803129a-91dd-4d92-a7cc-5c44c7561716" /># Patient Data Management Smart Contract
-
 ## Description
 
 The Patient Data Management smart contract is a blockchain-based solution built on the Aptos network using the Move programming language. This contract enables secure and decentralized management of patient medical records, ensuring data integrity, privacy, and controlled access. Healthcare providers can register new patients and update medical conditions while maintaining full transparency and immutability of medical records on the blockchain.
